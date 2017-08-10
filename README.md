@@ -14,3 +14,4 @@ The higher the noise factor the less deterministic the output will be.
 The lower the noise factor the the higher is the probability to run into a word circle.
 
 Start the application via 'java shakespeare.Main' from the superordinated folder from the command line.
+The Sonnets.rtf file has to be in the subordinated folder.
